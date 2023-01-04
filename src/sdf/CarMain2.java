@@ -13,6 +13,6 @@ public class CarMain2 {
 
         System.out.printf(">>>P.Registration:%s, %s \n",p.getRegistration(),p.getColor());
 
-        
+
     }
 }
